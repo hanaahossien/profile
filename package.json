@@ -1,7 +1,7 @@
 {
   "name": "reactappprofile",
   "version": "0.1.0",
-  "homepage": "https://hanaahossien.github.io/reactapp",
+  "homepage": "https://hanaahossien.github.io/profile",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
