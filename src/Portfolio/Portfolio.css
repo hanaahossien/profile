@@ -1,0 +1,11 @@
+.portfolio img{
+   
+    transition: all 1s;
+}
+.portfolio img:hover{
+     transform: scale(1.1);
+}
+
+.portfolio .col-md-4 div{
+    overflow: hidden;
+}
